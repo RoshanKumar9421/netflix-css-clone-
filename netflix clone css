@@ -1,0 +1,50 @@
+div{
+  height: 2000px;
+  width: 1500px;
+  background-color: black;
+}
+a{
+  color: white;
+  transform-style: preserve-3d;
+  margin-right: 10px;
+}
+a1{
+  margin-right: 100px;
+  color: red;
+}
+
+button{
+  color: white;
+ 
+}
+p{
+  color: white;
+  margin-left: 600px;
+}
+h1{
+  color: white;
+}
+
+button{
+  color: blueviolet;
+  
+}
+
+a{
+  margin-left: 600px;
+}
+h1{
+  color: red;
+  margin-left: 600px;
+}
+
+input{
+  margin-left:600px  ;
+  height: 50px;
+  width: 200px;
+}
+button{
+  color: red;
+  height: 50px;
+  width: 200px;
+}
